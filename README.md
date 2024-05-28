@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá. Seja bem vindo ao meu perfil de estudante 👋
+
+- Prazer, sou Luiz Otávio, tenho 17 anos. 
+
+- Estou estudando JavaScript
+
 
 <!--
 **luizx12000/luizx12000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
